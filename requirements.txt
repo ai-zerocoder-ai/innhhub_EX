@@ -1,4 +1,5 @@
 pytelegrambotapi
 python-dotenv
 requests
-
+schedule
+pytz
